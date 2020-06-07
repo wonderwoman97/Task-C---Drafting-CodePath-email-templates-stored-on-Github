@@ -8,7 +8,7 @@ A wholehearted day to you! Thank you very much for reaching out.
 
 We are glad that you expressed your interest in volunteering and sharing your expertise as a Teaching Assistant in one of our classes. We believe the best education in the world should be freely accessible.
 
-**CodePath** University students were held to the same high standards that we hold professional engineers to; they attended *mandatory 2-hour class* sessions *twice a week* and were required to complete and submit a weekly app assignment that often required 10+ hours of work outside of class. A semester is a 12-week long project based. CodePath courses are mainly Cybersecurity, Professional iOS, and Professional Android. 
+**CodePath** University students were held to the same high standards that we hold professional engineers to; they attended *mandatory 2-hour class* sessions *twice a week* and were required to complete and submit a weekly app assignment that often required 10+ hours of work outside of class. A semester is a *12-week long* project based. CodePath courses are mainly Cybersecurity, Professional iOS, and Professional Android. 
 
 To participate with a 12-week virtual course as a TA, please fill out the form [Interview Prep Courses - Mentor's Survey.][1] We also accept [volunteers in other ways.][2]
 
@@ -57,7 +57,7 @@ Thank you for your application and for completing all necessary steps in the adm
 
 The **Cybersecurity Course** is an on-campus program that will focus on teaching college students the mindset of a security professional along with the fundamentals of Cybersecurity, common application vulnerabilities, and hands-on practice focused on developing defensive applications. The curriculum was developed in partnership with Facebook and covers standard security fundamentals.
 
-You will be required to attend mandatory 2-hour class sessions twice a week and submit a weekly app assignment that often requires 10+ hours of work outside of class. A semester is a 12-week long project based.
+You will be required to attend mandatory *2-hour* class sessions *twice a week* and submit a weekly app assignment that often requires 10+ hours of work outside of class. A semester is a *12-week long* project based.
 
 **Action Items:**
 
