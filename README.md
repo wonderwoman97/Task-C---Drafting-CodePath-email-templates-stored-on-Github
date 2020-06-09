@@ -105,4 +105,4 @@ Ann Borbe
 
 [CodePath.org][9], Program Coordinator
 
-[9]: http://codepath.org
+[9]: https://codepath.org/
